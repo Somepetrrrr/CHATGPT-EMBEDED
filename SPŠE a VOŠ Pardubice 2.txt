@@ -1,0 +1,103 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+Na každej výběh bylo, co nebyl, vlastně byl jeden tak, a nebo respektive by došlo tam ke dvou jiná. Takže třeba jednička znamená, že se to mění z hard na low, v nulla opačně. Takže výzva, že vždycky to je dolů, když je jednička, když je nulla, to je to nahoru.
+
+Když je jednička na dolů, nulla nenahoru. Když bude dvě nully, a pak nahoru. Takže takhle.
+
+To mělo tu výhodu, že jste vždycky věděli, kdy bude náš výcík, kdy je výhodu, protože má to tam, že musíte přinášet dvakrátný změn než přinášíte jeho. Proto je dneska znamená, musím to dělat opačně. Takže když je na jeden nemůžu změnit, musím to změnit.
+
+Když nemůžete frekvenci přišovat do nekonečná, můžete přišovat na frekvenci 20 megahertz a vždycky máte ten, který je stropka nekonečný a je tam frekvence na 500 megahertz. Takže tohle je to. Musíte přinášet vlastně většině výspečnost na jednu změnu u bitu.
+
+Máte na jeden bit dvě změny, takže na druhé dvě u bitu. Frekvence je v tom, že se limitující většinou svojich cest. Takže vedení třeba jeden megabit, deset megabitů v době není stuprovat.
+
+Sto megabitů, to už prošlíhé. třeba koncentrální kámočky 1950 megahertzí. Takže kdybyste to měli dělat tímhle díl.
+
+Když se na výhled vlastně škálovat můžete, tak jste někde 0,5-10 gigabitů do vysnití gigabitových retenentů na seriálné 20 GHz, což je velmi mimo. A to by nebylo činocitelný. Přesně se dá to nášit pomocí tabelu, kde máte 9500 megahertzů.
+
+Vysokých frekvencí dochází k tomu, že tím, že to není ideální, ty materiály, tak ta parasitní kapacita se projevuje. Použijeme funkci PIN. Použijete se na mě a znamenujeme, jak se to už pošlo z Admina do své data.
+
+Takže je to o poslání po celý výlice. Taky třeba, jak se vyšší, když pošlu třeba číslo a vyšlo třeba 96 třeba a nebo vyšlo třeba 90. Jak se vyšší? Tak to by je příběh, který je v tý paměti.
+
+No jako, že jedno spotřebovává víc paměti a druhý jako mín. To je jako v tý paměti v tom parku, no, ale to není ten hlavní důležitost. Je to jako evidentně vidět.
+
+Jakoby na hradíši. Tak budu používat ten, co spotřeba mín, a ten druhý, ten nebudu bezpoužívat, tak to neby tohle rovnou stalo, tak bys mohl udělat i přes to, ale přes to bys mohl převolovat. Tak to by to bylo.
+
+Tak už obě toho parku. Není to ten hlavní důležitost. O to, co přijde.
+
+Můžete to vyzkoušet, ale vůbec nerozumíte, co vám překázá. Předtím je samozřejmě napsáno seriál, ale nám asi jasný. Takže můžete použít nápovědy.
+
+No, tak jak se to bude lišit? Můžete si to vyzkoušet předtím. Proč to tak je? Někdy se mi platí používat RIN, někdy naopak dává způsob, který je jenom RIN. Já bych byl 96, a to se skvělým oběk byl to 97, nebo 98, 97 asi.
+
+Tak někdy do 97, 98, 99, 96. To by byl dobrý případ. Ještě můžete si nepřečet, co je stále v nápovědě.
+
+Takže RIN je jakoby asi používaná. Na rozdíl od toho. Takže, co se pošle, nebo proč v jednom případě dostanu 97, a v druhém případě dostanu 98, takže byl 97.
+
+Používáte, kdo to je? Můžeme jich popsat, jak to funguje. Je tady, jak to používá ASCII kolo, to je dobrý. Tak pošle toho znaku, kterého povídá ASCII kolo 97, nebo to pošle... Takže... kterého pošle přímo bajt hodnotou 97.
+
+A jelikož ta servová konzole přijímá bajty a snaží se je interpretovat jako ASCII hodnoty, tak když mi přijde 97, tak... mělo tady kolo 97, tak je to ASCO. 97 je A, takže bajt hodnotou 97 je A. Když na pošlu bajt hodnotou 72, bude tam velký H. Když pošlete bajt hodnotou 64, ne náhodou, tam budete mít zavináč. Proto tohle znamená dost nepraktická, který pošle v způsob AL-64 pro zavináč.
+
+Když napíšu AL-74, dostanu velký J. AL-74, velký J. Takže přesně takové to funguje. Když pošlete, požijete print, tak se to vezme jako číslo. A pošle se víceméně jenom názor mění pro člověka.
+
+Znak, který lidem interpretuje, je 9. A znak, který lidi berou za 7. Znamená, pošlou se dva bajty, a to je 4. Pošle se bajt hodnotou 57 a 55. Že tomu tak je ve skutečnosti? Vyjistíme je jednoduše. Takže pošlou 57 a 55.
+
+A bude mi to vypisovat 97, 97, 97. Tak to je vlastně jenom opačný, když to tak dobře chápu. Když chcete, aby to lidem zobrazilo číslo, tak pošlete print, když chcete, aby si to skutečně představili jako číslo, použijete write, který má smysl, když budete to posílat mezi arginama, mezi zařízeníma.
+
+Nedává smysl používat print, zbytečně si to zesložitíte. Používáme třeba pár syns, takže vy pošlete, když chcete poslat odnotu 100 nebo 105, tak by nám to poslalo byte, který znázoruje jedničku, byte, který znázoruje nul a byte, který znázoruje pětku. Na druhé straně musí být kód, který přijme jedničku, přijme nul, takže to nebyla samotná jednička, takže to bude 10, přijme pětku, dobře nebylo to 10, takže je to 105.
+
+Takže na to to je úplně k ničemu, ale je to zbytečně složitý. Při osmdesilání se to musí rozložit na tři číslitce a každý najde interpretace, jak vypadá, a na prodější straně taky jdeš to, když to pošlete tak se vezme jenom byte, pošle se jeden jediný byte, ten druhý staje se jenom příjme a uloží. Takže na druhou stranu, kdybyste to samý poslali lidem, a kterým zobrazí číslo 105, a vy pošláte 105, no tak se na příjmatý straně zobrazí malé jí.
+
+A musel byste to teď převádět. Takže pro lidi se jednoznačně bank, pro zařízení se jednoznačně write, oproti write je read. Takže k tomuhle tím se to líší, u mě to kusila teda jeden byte.
+
+Takže tohle to je trošičku komplikace, že máte uvědomí, že vy posíláte něco, co jen vypadá jako to číslo a není to to číslo. Líp se to uvědomí, když chcete někde tady nějaký jiný číslice, kdybyste to měli někde za zemem, takhle, že vám to přijde jako číslo, ale je to jenom proto, že něco, co je takhle do kolečka, my bereme jako dluho, něco, co je trošku na hlavu, trošku dolů, kde je jednička. Tohleto zrovna bereme jakože pětka.
+
+Kdyby to bylo tohleto, už by to bylo dřevnější, že se to musí pak stovat na číslo. Kdyby nám tohleto přišlo nevůbec stovat, kdyby nám to přišlo do, kdyby nám to přišlo do, kdyby nám to přišlo do, Takže na x toho bude 10 znaků, 20, 30. Plus teda tam bude enter, takže println 31 znaků.
+
+Tady si nechám unsigned log na začátek. Milis, kterým začátek bude milis, tak je na začátku. A měřím si čas na konci, takže to vypsání na listě.
+
+Jak dlouho to bude trvat? Tady je začátek a konec. No a nakonec vypíšu serial println. Konec minus začátek na listě.
+
+Ukolik milisekund to zabralo? Kolik to podle vás zabral milisekund? Je to 31 znaků, teda 31 bytů, čili prostě 960 bytů za sekundu. To je hodný. Prosím? 31 milisekund.
+
+No tak pojď. 32 milisekund. Kolik já se nerozumím? 32 milisekund.
+
+Počkej. Ne. Jo.
+
+Jo? 32 milisekund. Dobrý, když si si uvědomit, že to, co jste spočítali, není úplně jak milisekund, když máte za 1000 bytů za sekundu, tak to je zhruba byt za milisekundu. A když je 31 bytů, tak ano, to bude to někde kvůli 30 milisekund.
+
+Správně. Jo, počítat, protože můžeme spočítat 31 dělenou 960, a máme hodnotu sekundár. Jo, takže.
+
+31 dělenou 960, ano, 30 milisekund. V druhé skupině, tam někdo dělal opačně 960, dělal 31. Když jste... Protože hodnotu bude jednost podobně, teda v tohleto případě.
+
+Kdo to je? Dobrý uvědomici. Mě to i máme, jak jste to říkali, je má. Zkusit se, když jste nejistěji, já nechcem se dávat na tím moc přemýšlet, tak jednostěch čísel, třeba tohle prostě zvětšit, na dvojnáctech.
+
+Takže 30 milisekund tady odpovídá půl sminu z toho, jak by to mohlo být. Takže je to dostatečně uvěřitelná hodnota. Ale když těšíte tu hodnotu na dvojnáctech, tak 960 děleno 60-ti pohledem je 15 milisekund.
+
+Není důvod, aby delší test nebo výzdav se přinášel od krátkého dobu. Takže... opačně. Takže potom, když to udělám to samé, 62 děleno 960 i dostanu 64 milisekund.
+
+To je 0,063 sekundy. To už je uvěřitelnější, že dvakrát víc dát se přináší dvakrát díl. A kolikrát je? Zrovna to je dost něco podělíte, vynásovit, ale... Všichni byli uvědomici, že když nějak to zvědčíte dvakrát nebo zvědčíte je na polovinu, tak jakým směrem by se to mělo vydat.
+
+Když si dáte zvědčit dvakrát, tak se nebude vznášet dvakrát díl. Při stejný přinásovit. Takže nějakej 30 milisekund.
+
+No. Nahraju. A slušíte, že to bude nějaký haček, jo? Tak to je to 0. A občas jedničku, když to už na ne lidé, když to začíná na konec jedný milisekundy a začátek druhý milisekundy.
+
+Takže... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... Kdyby to půjde, kdyby to ještě se mělo pejt, tak ten batériac je 64 V. Tak to dáme 0. Ale když to dám po třetí, tak to už se nevejde. A to je 31 V. Tak to je 32 V. Všichni tam máme nějaký 93 ms. Takže buffer je 64 V. 64 V se naplní hnedka. A potom se musí počkat, než se odjde, že všechny zbylají nějakých 30 V, který tam potřebujete města.
+
+A jak nemluvíme těch prvních 30 V, kterých jako buffru můžeme pokračovat dál. Takže tady už potom to trvá díl. Kdybyste zmenšovali výchoz k odesílání, nebo oběčovali úměrně, tomu se zmenší ta rychlost.
+
+V položní rychlosti to bude 12,62 ms. 12,62 ms. je 15,6 ms. Takže není to na to, abyste odesílali třeba kilisekundu na nějaký přímístní číslo, které byste zvedli tu rychlost tak, aby to vždycky ten buffr zbyhnul odesát. Jinak to čeká. Takže kdybyste tam valili čísla furt, furt, furt, tak zjistíte, že nakonec stejně to čeká.
+
+To je dlouho, než se vlastně odešlou ty všechny čísla. Takže kdybych já tam nedal delay, tak i tak to proběhne jednou za nějakých 90 ms. Protože než se odečte těch 90 znaků, tak to změří začátek, 90 znaků, konec. Vystíhují třeba čtyři milisekund.
+
+Jenže než to stříhnout se, znova to zaplní a čeká se, až to odjet. A pak znova, a znova, a znova. Takže nakonec by to stejně se tohleto provedlo jenom jednou za 90 ms. To samé je i na vstupu.
+
+Na vstupu máte buffer taky. Já tady vybírám třeba proti tomu oper seriál, který nic takového nemáte. Takže když odesvíháte, tak prostě musíte to odesvat a musíte čekat, než se to odešle.
+
+Takže když to přijímáte, takhle se musíte bejt, musíte ten program mít, když v tu chvíli přítomnejí vzniknout k tomu přijímání, když se data přijímají. To stejně jako, když prostě chvále skránkujete, tak to je něco jako buffer. Stačí jednou za den, značí to nám to podívá, aby data byla v pohodě, to vybrat a stačí to. 
+
+Když by to vozilo třeba jenom TTL, tak musíte vždycky bejt v tamtou chvíli. Nemůžete vědět někde jiné, pak si to vyberu. Takže to stejné je i u toho bufferu.
+
+Když byste to přijímali, musíte vždycky počkat, až ty data přijímají. Vždyť to budete přijímat třeba, když je přijímá jednou za sekundu, ale nevíte kdy, tak stačí jednou za sekundu to zkontrolovat. A oni tu sekundu, kdy dvě, tři, deset, tomu bufferu vydrží.
+
+Oni kam neodejdu. Nespadnou, nesmaždou se, trochu zaordinové nestartujete, takže ten výhoda i v hardwareových seriových komunikacech si má v sobě i obvody, který tohoto řeší. A na to právě existuje metoda InterVeyLabel, která...
+
+(This file is longer than 30 minutes. Go Unlimited at TurboScribe.ai to transcribe files up to 10 hours long.)
